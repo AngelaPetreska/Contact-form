@@ -1,5 +1,5 @@
 # Frontend Mentor - FAQ accordion solution
-This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). 
+This is a solution to the [Contact form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj). 
 
 ### Screenshot ![desktop-preview](image.png) ![mobile-preview](image-1.png)
 
